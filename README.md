@@ -21,8 +21,20 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Akhilesh-Shabadi&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akhilesh-Shabadi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Projects & Languages
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Akhilesh-Shabadi&layout=compact&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Akhilesh-Shabadi&repo=3D_Portfolio&theme=react" alt="3D Portfolio Project" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Akhilesh-Shabadi&repo=3D_Portfolio&theme=react" alt="3D Portfolio Project" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Akhilesh-Shabadi&repo=LeetCode&theme=react" alt="LeetCode Project" />
+</p> -->
+
+<!-- ### 🔝 Top Contributed Repo
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Akhilesh-Shabadi&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akhilesh-Shabadi&icon=0&color=0)](https://visitcount.itsvg.in)
